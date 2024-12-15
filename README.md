@@ -49,11 +49,11 @@
 
 
 <div align="left">
-<img width="50" height="50" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
-<img width="50" height="50" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/>
-<img width="50" height="50" src="https://img.icons8.com/color/48/pycharm--v2.png" alt="pycharm--v2"/>
-<img width="50" height="50" src="https://img.icons8.com/color/80/git.png" alt="Git"/>
-<img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" />
+<img width="70" height="70" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+<img width="70" height="70" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/>
+<img width="70" height="70" src="https://img.icons8.com/color/48/pycharm--v2.png" alt="pycharm--v2"/>
+<img width="70" height="70" src="https://img.icons8.com/color/80/git.png" alt="Git"/>
+<img height="70" src="https://img.icons8.com/color/480/null/notion--v1.png" />
 </div>
 
 ---
