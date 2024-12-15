@@ -24,7 +24,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GFG - harinisfyx1" height="40" width="40" hspace="10" />
   </a>
 
-
+---
   <p align="left">
   <h3>Tech Skills </h3>
 </p>
