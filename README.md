@@ -40,7 +40,7 @@
   <img width="70" height="70" src="https://img.icons8.com/color/80/mysql-logo.png" alt="MySQL"/>
   <img width="70" height="70" src="https://img.icons8.com/color/80/git.png" alt="Git"/>
   <img width="70" height="70" src="https://img.icons8.com/color/80/linux--v1.png" alt="Linux"/>
-  <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/burp-suite.png" alt="burp-suite"/>
+  <img width="50" height="50" src="https://img.icons8.com/ios-filled/100/burp-suite.png" alt="burp-suite"/>
 </div>
 
 <p align="left">
