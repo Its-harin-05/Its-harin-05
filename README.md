@@ -59,8 +59,8 @@
 ---
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ePHYdt6x4M?theme=dark&font=Biryani&ext=heatmap)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=its-harin-05&bg_color=000000&color=f5f5f5&line=0d8245&point=e8e8e8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Its-harin-05's Stats](https://github-readme-stats.vercel.app/api?username=Its-harin-05&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)![Its-harin-05's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Its-harin-05&theme=vue-dark&hide_border=true)
+![Its-harin-05's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Its-harin-05&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-![Its-harin-05's Stats](https://github-readme-stats.vercel.app/api?username=Its-harin-05&theme=dark&show_icons=true&hide_border=true&count_private=true)![Its-harin-05's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Its-harin-05&theme=dark&hide_border=true)![Its-harin-05's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Its-harin-05&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 
