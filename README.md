@@ -58,7 +58,7 @@
 </div>
 
 ---
-![LeetCode Stats](https://leetcard.jacoblin.cool/ePHYdt6x4M?theme=dark&font=Inder)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ePHYdt6x4M?theme=dark&font=Biryani&ext=heatmap)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=its-harin-05&bg_color=000000&color=f5f5f5&line=0d8245&point=e8e8e8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
